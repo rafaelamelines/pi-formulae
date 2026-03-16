@@ -1,6 +1,8 @@
 # Pi Formulae
 Just some interesting formulae for approximating pi, with graphs. Made for Pi Day 2026.
 
+<img width="1074" height="717" alt="Screenshot of the program" src="https://github.com/user-attachments/assets/72e65528-aad0-4301-bfe1-9e974f0be623" />
+
 ## Formulae
 #### Madhava-Leibniz formula
 Dervied from the Taylor series expansion of $arctan(1)$
